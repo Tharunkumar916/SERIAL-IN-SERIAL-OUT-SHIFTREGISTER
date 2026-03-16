@@ -68,4 +68,8 @@ Developed by:Tharun Kumar V   RegisterNumber:212224240173
 
 **TIMING DIGRAMS FOR SISO Shift Register**
 
+![image alt](https://github.com/Tharunkumar916/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/blob/410de0c6315980e475372f3eb0d5563851b317d4/Screenshot%202026-03-16%20215456.png)
+
 **RESULTS**
+
+Thus,SISO Shift Register using verilog and validating their functionality using their functional tables has successful execution of the program.
