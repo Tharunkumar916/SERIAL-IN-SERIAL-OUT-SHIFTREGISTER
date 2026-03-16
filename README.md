@@ -62,6 +62,7 @@ Developed by:Tharun Kumar V   RegisterNumber:212224240173
 */
 
 **RTL LOGIC FOR SISO Shift Register**
+![image alt](https://github.com/Tharunkumar916/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/blob/ef8ba16bcad2f5de0b667f0ff8dfb66be63aa3e2/exp10img.jpg)
 
 
 
